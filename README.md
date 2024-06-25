@@ -1,2 +1,4 @@
-# LCD
-IC:ST7789-IPS-SPI
+IC:ST7789	SPI通讯
+
+IPS屏和LCD屏可用
+
